@@ -8,6 +8,7 @@
 
 - [Code Wars](https://www.codewars.com/) - Playground para fazer exercícios de lógica de diferentes linguagens de programação
 
+- [Dev Challenge](https://www.devchallenge.com.br/) - Sugestões de projetos Front-end, Back-end e Mobile para estar realizando para estudos
 
 # Referências
 
